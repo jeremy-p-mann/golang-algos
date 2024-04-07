@@ -6,7 +6,7 @@ Each of the following todos should have both implementation and G
 
 - Arrays & Hashing
     - [x] Contains Duplicate
-    - [ ] Valid Anagram
+    - [x] Valid Anagram
     - [ ] Two Sum
     - [ ] Group Anagrams
     - [ ] Top K Frequent Elements
